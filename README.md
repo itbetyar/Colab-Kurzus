@@ -12,6 +12,8 @@ Ingyenes, három részes Google Colab tanfolyam
 Kurzus első rész:  
 https://youtu.be/cdQmZn0JIx0
 
+### A Colab kurzus központi oldala a honlapunkon
+https://itbetyar.hu/google-colab-kurzus/
 
 🐍 Kezdő Python Tanfolyam:  
 https://itbetyar.hu/python-tanfolyam/
