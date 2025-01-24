@@ -10,7 +10,7 @@ Ingyenes, három részes Google Colab tanfolyam
 <img src="https://github.com/itbetyar/Colab-Kurzus/blob/69791d51e5bd5e24ce546004771d4151adc32f97/Colab%20sorozat_honlapra%20copy.webp" alt="IT Betyár Colab kurzus" width="400">
 
 Kurzus első rész:  
-https://youtu.be/cdQmZn0JIx0
+https://youtu.be/cdQmZn0JIx0  
 Kurzus második rész:  
 https://youtu.be/6Ea0vmTABt8
 
